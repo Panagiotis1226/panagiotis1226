@@ -1,7 +1,7 @@
 # 👋 Γεια σας, I'm Panagiotis! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Passionate+about+technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F7A4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Passionate+about+technology" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
