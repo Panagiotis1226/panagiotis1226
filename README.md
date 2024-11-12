@@ -28,7 +28,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 #### 📱 Mobile Operating Systems
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-333333?style=flat-square&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 #### 🛡️ Security Tools
