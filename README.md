@@ -12,6 +12,8 @@
 
 ## 🛠️ Tech Stack
 ### 💻 Programming & Development
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,6 +37,16 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-FF0000?style=flat-square&logo=hackaday&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=buffer&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-5391FE?style=flat-square&logo=hackthebox&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00599C?style=flat-square&logo=hackthebox&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-3C873A?style=flat-square&logo=hackthebox&logoColor=white)
+![Wifite](https://img.shields.io/badge/Wifite-4B275F?style=flat-square&logo=hackthebox&logoColor=white)
+
+#### 🖥️ Server & Self Hosting
+![Server Hosting](https://img.shields.io/badge/Server_Hosting-FF6C37?style=flat-square&logo=server-fault&logoColor=white)
+![Self Hosting](https://img.shields.io/badge/Self_Hosting-3C873A?style=flat-square&logo=homeassistant&logoColor=white)
 
 ### 🛠️ Development Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
