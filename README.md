@@ -43,12 +43,15 @@
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00599C?style=flat-square&logo=hackthebox&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-3C873A?style=flat-square&logo=hackthebox&logoColor=white)
 ![Wifite](https://img.shields.io/badge/Wifite-4B275F?style=flat-square&logo=hackthebox&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-326CE5?style=flat-square&logo=wazuh&logoColor=white)
 
 #### 🖥️ Server & Self Hosting
 ![Server Hosting](https://img.shields.io/badge/Server_Hosting-FF6C37?style=flat-square&logo=server-fault&logoColor=white)
 ![Self Hosting](https://img.shields.io/badge/Self_Hosting-3C873A?style=flat-square&logo=homeassistant&logoColor=white)
 
 ### 🛠️ Development Tools & Environments
+![VMware Workstation](https://img.shields.io/badge/VMware_Workstation-607078?style=flat-square&logo=vmware&logoColor=white)
+![VMware Fusion](https://img.shields.io/badge/VMware_Fusion-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
