@@ -49,6 +49,11 @@
 #### 🖥️ Server & Self Hosting
 ![Server Hosting](https://img.shields.io/badge/Server_Hosting-FF6C37?style=flat-square&logo=server-fault&logoColor=white)
 ![Self Hosting](https://img.shields.io/badge/Self_Hosting-3C873A?style=flat-square&logo=homeassistant&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/Pi--Hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
+![ProxmoxVE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 
 ### 🛠️ Development Tools & Environments
 ![VMware Workstation](https://img.shields.io/badge/VMware_Workstation-607078?style=flat-square&logo=vmware&logoColor=white)
