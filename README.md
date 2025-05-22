@@ -220,8 +220,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Panagiotis1226&color=00F7A4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=Panagiotis1226&icon=2&color=6" alt="Visit Count" />
 </div>
 
 <div align="center">
