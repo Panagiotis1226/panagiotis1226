@@ -146,12 +146,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Panagiotis1226&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7A4&icon_color=00F7A4&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Panagiotis1226&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7A4&ring=00F7A4&fire=00F7A4&currStreakLabel=00F7A4" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Panagiotis1226&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Panagiotis1226&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7A4&ring=00F7A4&fire=00F7A4&currStreakLabel=00F7A4" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Panagiotis1226&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A4&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Panagiotis1226&theme=tokyonight" alt="Top Languages" />
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Panagiotis1226&theme=tokyo-night&bg_color=0D1117&color=00F7A4&line=00F7A4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
